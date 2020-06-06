@@ -57,32 +57,27 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Site Reliability Engineer
+      time: Jun 2020 - Present
+      company: Itaú Unibanco, Sao Paulo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+      
+    - role: DevOps Architect
       time: 2014 - 2015
-      company: Google, London
+      company: Thomson Reuters, Sao Paulo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As a DevOps Architect, I work evangelizing DevOps culture, Digital transformation, and drive innovative strategies. 
+        At the beginning of the year, I received an opportunity to visit our Canada office and to be part of the LGPD (GDPR) 
+        implementation program team with a focus on Data Protection Implementation for SaaS Products.
+          - Kubernetes - automating deployment, scaling, and management of containerized applications
+          - AWS Code Build, Code Deploy, Code Pipeline, ECS, ECR , Fargate, CloudFormation, Cloud Front
+          - Ansible - Infrastructure as code
+          - Docker core container platform
+          - HashiCorp Consul, Vault, Terraform, Packer
+          - Jenkins - CI/CD Platform‎
+          - Sonatype Nexus, Jfrog Artifactory
+          - Golang/Python - Building my/our cloud cli tools ( aws ), DevOps and SRE
+          - Part of LGPD implementation program team ( Data Protection Implementation - SaaS Products )
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
