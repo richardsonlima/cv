@@ -17,8 +17,8 @@ sidebar:
     website: blog.richardsonlima.com.br #do not add http://
     linkedin: richardsonlima
     github: richardsonlima
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    telegram: hashZ3r0 # add your nickname without '@' sign
+    gitlab: richardsonlima1
     bitbucket:
     twitter: '@richdevsecops'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -45,35 +45,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Site Reliability Engineer with focus on Security, Development, Infra as a Code , Cloud, Service orchestration and 
+      microservices. Trying to be 50% dev and 50% ops .
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS degree in Information Technology ( Bachelor of Science in Information Technology - BSIT / B.Sc IT )
+      university: Estácio University  
+      time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Bachelor's degree - Bachelor of Information System 
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -165,22 +147,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Linux & Unix
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: AWS
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Kubernetes & Docker
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name:  Microservices
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Security (Pentesting)
+        level: 85%
+
+      - name: Python & Go
         level: 60%
 
 footer: >
