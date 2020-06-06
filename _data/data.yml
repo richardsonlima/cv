@@ -92,7 +92,23 @@ experiences:
           - Pentest (BlackBox, Graybox and Whitebox)
           - Web Application Penetration Testing
           - SCRUM as an agile methodology everyday
-    - role: DevOps Engineer 
+      - role: DevOps Consultant ( freelancer )
+      time: Oct 2017 – Oct 2018
+      company: SENAI - Innovation Institute for Information and Communication Technologies
+      details: |
+        I worked as a DevOps Consultant ( freelancer ) assisting the industries projects with deployments and migrations of DevOps 
+        and Cloud solutions. With the objective of helping the company to promote competitiveness on the Brazilian industry through
+        the transfer of knowledge, applied research, and innovation.
+          - Cloud (AWS) Engineer;
+          - Linux-oriented Consultant;
+          - Microservices (Docker Cluster - Swarm);
+          - Microservices (Kubernetes);
+          - CI/CD (Jenkins);
+          - Performance and Automation;
+          - Cloud administration (AWS);
+          - Infrastructure-as-Code (Ansible/Terraform);
+          - Team Collaboration Tools: Slack, Jira, Bitbucket;
+    - role: DevOps Engineer  
       time: Mar 2017 – Mar 2018
       company: Oracle Zenedge, Full Remote
       details: |
