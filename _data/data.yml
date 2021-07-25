@@ -61,76 +61,7 @@ experiences:
       time: Jun 2020 - Present
       company: Itaú Unibanco, Sao Paulo
       details: |
-      
-    - role: DevOps Architect
-      time: Dec 2018 – Jun 2020
-      company: Thomson Reuters, Sao Paulo
-      details: |
-        As a DevOps Architect, I work evangelizing DevOps culture, Digital transformation, and drive innovative strategies. 
-        At the beginning of the year, I received an opportunity to visit our Canada office and to be part of the LGPD (GDPR) 
-        implementation program team with a focus on Data Protection Implementation for SaaS Products.
-          - Kubernetes - automating deployment, scaling, and management of containerized applications
-          - AWS Code Build, Code Deploy, Code Pipeline, ECS, ECR , Fargate, CloudFormation, Cloud Front
-          - Ansible - Infrastructure as code
-          - Docker core container platform
-          - HashiCorp Consul, Vault, Terraform, Packer
-          - Jenkins - CI/CD Platform‎
-          - Sonatype Nexus, Jfrog Artifactory
-          - Golang/Python - Building my/our cloud cli tools ( aws ), DevOps and SRE
-          - Part of LGPD implementation program team ( Data Protection Implementation - SaaS Products )
-    - role: Senior DevOps Engineer
-      time: Mar 2018 – Nov 2018
-      company: Rivendel (Mandic Cloud), Sao Paulo
-      details: |
-        I started working as a Senior DevOps Engineer at this company specialized in Cloud Computing, with Lean culture, and 
-        with a lot of motivated guys. Acting with infrastructure in Amazon Web Services, Azure, and other Cloud platforms. 
-        "We've the most solid technical team in AWS and Azure in Brazil."
-          - Microservices, API management, and web-scale architectures
-          - DevOps engineering and application delivery
-          - Container-based continuous delivery
-          - Cloud automation, and everything-as-code
-          - Pentest (BlackBox, Graybox and Whitebox)
-          - Web Application Penetration Testing
-          - SCRUM as an agile methodology everyday
-      - role: DevOps Consultant ( freelancer )
-      time: Oct 2017 – Oct 2018
-      company: SENAI - Innovation Institute for Information and Communication Technologies
-      details: |
-        I worked as a DevOps Consultant ( freelancer ) assisting the industries projects with deployments and migrations of DevOps 
-        and Cloud solutions. With the objective of helping the company to promote competitiveness on the Brazilian industry through
-        the transfer of knowledge, applied research, and innovation.
-          - Cloud (AWS) Engineer;
-          - Linux-oriented Consultant;
-          - Microservices (Docker Cluster - Swarm);
-          - Microservices (Kubernetes);
-          - CI/CD (Jenkins);
-          - Performance and Automation;
-          - Cloud administration (AWS);
-          - Infrastructure-as-Code (Ansible/Terraform);
-          - Team Collaboration Tools: Slack, Jira, Bitbucket;
-    - role: DevOps Engineer  
-      time: Mar 2017 – Mar 2018
-      company: Oracle Zenedge, Full Remote
-      details: |
-        In March 2017 I had an opportunity to start working remotely as a DevOps engineer in an amazing team with a mix of Cyber 
-        Security professionals that worked in companies like Splunk and Akamai, our teams were distributed in the world in 3 
-        countries United States, Costa Rica, and Lithuania. So, it was amazing because I had an opportunity to work developing 
-        all of the ecosystem of a CDN startup company, it included POP nodes, AWS cloud infrastructure, Infra as code approach, 
-        and SRE/DevOps practices totally Linux oriented. As a lead global provider of cloud-based, artificial intelligence (AI)
-         driven Web Application Firewall (WAF), malicious bot detection, and DDoS cybersecurity solutions. ZENEDGE protected 
-         over 800,000 web applications and networks for organizations in eCommerce, Energy, Entertainment, Financial Services, 
-         Gaming, Government, Healthcare, Media, and Technology industries. ZENEDGE was acquired by Oracle in March 2018
-          - Cloud (AWS)
-          - Linux-oriented
-          - CDN nodes builder
-          - Nginx/Openresty
-          - Stack ELK
-          - Performance and Automation
-          - Cloud administration (AWS)
-          - Infrastructure-as-Code (Ansible)
-          - Team Collaboration Tools: Slack, Jira, Github, Confluence
-          - Professional Operations Services
-          - Working with a global team - United States, Costa Rica , Lithuania          
+            
 projects:
     title: Projects
     intro: >
