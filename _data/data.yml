@@ -63,19 +63,24 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Cloud Platform Engineer
+      time: Jun 2020 - Present
+      company: Itaú Unibanco (Iti Itaú https://iti.itau), Sao Paulo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As Platform engineers we work with constantly focus examining the 
+        entire software development lifecycle from source to production. 
+        From this introspective process, we build a workflow that enables 
+        application developers to rapidly code and ship software. A basic 
+        workflow typically includes a source control system connected with 
+        a continuous integration system, along with a way to deploy artifacts into production.
+        Tech Philosophy 
+          - Blameless, GitOps, Code promotion, No cherry-picking, IaC (modules), Reconciliation Pattern, Guardrails, Trunk based deployment(https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development)
+        Key technologies
+          Linux, Docker, Prometheus, Fluentd, Grafana, Jaeger, Harbor, Kubernetes, Istio, Hashicorp Consul, Hashicorp Terraform,
+          AWS (Landing Zone), Golang, Helm, Gitlab
+        Mission
+          - SRE, DevOps, NoOps, Observability, Reliability, Cloud management (Amazon AWS Services)
+          
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
