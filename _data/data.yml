@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Richardson Lima
-    tagline: Senior Site Reliability Engineer
+    tagline: Cloud Platform Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: richardson.lima@owasp.org
-    phone: +55 11 970148942
-    website: blog.richardsonlima.com.br #do not add http://
+    website: www.richardsonlima.com.br #do not add http://
+    blog: richardsonlima.medium.com
     linkedin: richardsonlima
     github: richardsonlima
     telegram: hashZ3r0 # add your nickname without '@' sign
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Site Reliability Engineer with focus on Security, Development, Infra as a Code , Cloud, Service orchestration and 
+      Cloud Platform Engineer with focus on Security, Development, Infra as a Code , Cloud, Service orchestration and 
       microservices. Trying to be 50% dev and 50% ops .
 education:
     - degree: Bachelor of Science in Information Technology - BSIT / B.Sc IT 
@@ -55,13 +55,43 @@ education:
         Bachelor's degree - Bachelor of Information System 
           - Bullet point
           - Bullet point
+    - degree: M.Sc. Candidate in Computer Engineering, Master of Engineering 
+      university: Aeronautics Institute of Technology - ITA
+      time: 2021 – 2025
+      details: |
+        MEngField Of StudyComputer Engineering, Software engineering, Complex systems, Distributed computing system resiliency
+          - Bullet point
+          - Bullet point
 
 experiences:
-    - role: Senior Site Reliability Engineer
+    - role: Cloud Platform Engineer
       time: Jun 2020 - Present
       company: Itaú Unibanco, Sao Paulo
       details: |
+      Iti Itaú ( https://iti.itau )
+      - Project: Iti / BaaS
+        As Platform engineers we work with constantly focus examining the entire software development lifecycle from source to 
+        production. From this introspective process, we build a workflow that enables application developers to rapidly code and 
+        ship software. A basic workflow typically includes a source control system connected with a continuous integration system, 
+        along with a way to deploy artifacts into production.
+        - Tech Philosophy: Blameless, GitOps, Code promotion, No cherry-picking, IaC (modules), Reconciliation Pattern, Guardrails, Trunk based deployment(https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development)
+
+        - Key technologies: Linux, Docker, Prometheus, Fluentd, Grafana, Jaeger, Harbor, Kubernetes, Istio, Hashicorp Consul, Hashicorp Terraform,
+        AWS (Landing Zone), Golang, Helm, Gitlab
+
+        - Mission: SRE, DevOps, NoOps, Observability, Reliability, Cloud management ( Amazon AWS Services )
       
+
+        - Project: PIX (https://www.bcb.gov.br/en/financialstability/pix_en)
+        Key technologies: Cloudformation,SQS, SNS, Dynamodb, Aurora, Lambda, ECS ( fargate ), Cloud, HSM
+
+        Mission:
+        - Enabling teams of skilled software engineers and solution specialists on banking platforms and help them deliver some awesome solutions to our customers
+        - Contributing to design and implement build, deployment, and configuration management focusing on bank solutions in the cloud.
+
+        Participate in deep architectural discussions and contribute to drive the architecture to build highly scalable, cloud-native applications on the AWS platform 
+        using core developer services.
+
     - role: DevOps Architect
       time: Dec 2018 – Jun 2020
       company: Thomson Reuters, Sao Paulo
@@ -199,7 +229,7 @@ skills:
       - name: Security (Pentesting)
         level: 85%
 
-      - name: Python & Go
+      - name: Golang
         level: 60%
 
 footer: >
