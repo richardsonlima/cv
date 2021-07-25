@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Richardson Lima
-    tagline: Senior Site Reliability Engineer
+    tagline: Cloud Platform Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: richardson.lima@owasp.org
-    phone: +55 11 970148942
-    website: blog.richardsonlima.com.br #do not add http://
+    website: www.richardsonlima.com.br #do not add http://
+    blog: richardsonlima.medium.com
     linkedin: richardsonlima
     github: richardsonlima
     telegram: hashZ3r0 # add your nickname without '@' sign
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Site Reliability Engineer with focus on Security, Development, Infra as a Code , Cloud, Service orchestration and 
+      Cloud Platform Engineer with focus on Security, Development, Infra as a Code , Cloud, Service orchestration and 
       microservices. Trying to be 50% dev and 50% ops .
 education:
     - degree: Bachelor of Science in Information Technology - BSIT / B.Sc IT 
@@ -53,6 +53,13 @@ education:
       time: 2014 - 2017
       details: |
         Bachelor's degree - Bachelor of Information System 
+          - Bullet point
+          - Bullet point
+    - degree: M.Sc. Candidate in Computer Engineering, Master of Engineering 
+      university: Aeronautics Institute of Technology - ITA
+      time: 2021 – 2025
+      details: |
+        Computer Engineering, Software engineering, Complex systems, Distributed computing system resiliency
           - Bullet point
           - Bullet point
 
