@@ -73,30 +73,22 @@ experiences:
         production. From this introspective process, we build a workflow that enables application developers to rapidly code and 
         ship software. A basic workflow typically includes a source control system connected with a continuous integration system, 
         along with a way to deploy artifacts into production.
-
         Tech Philosophy 
-        Blameless, GitOps, Code promotion, No cherry-picking, IaC (modules), Reconciliation Pattern, Guardrails, Trunk based deployment(https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development)
-
+          - Blameless, GitOps, Code promotion, No cherry-picking, IaC (modules), Reconciliation Pattern, Guardrails, Trunk based deployment(https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development)
         Key technologies
-        Linux, Docker, Prometheus, Fluentd, Grafana, Jaeger, Harbor, Kubernetes, Istio, Hashicorp Consul, Hashicorp Terraform,
-        AWS (Landing Zone), Golang, Helm, Gitlab
-
+          Linux, Docker, Prometheus, Fluentd, Grafana, Jaeger, Harbor, Kubernetes, Istio, Hashicorp Consul, Hashicorp Terraform,
+          AWS (Landing Zone), Golang, Helm, Gitlab
         Mission
-        SRE, DevOps, NoOps, Observability, Reliability, Cloud management (Amazon AWS Services)
+          - SRE, DevOps, NoOps, Observability, Reliability, Cloud management (Amazon AWS Services)
 
-      Project:
-        PIX (https://www.bcb.gov.br/en/financialstability/pix_en)
-
+      Project: sPIX (https://www.bcb.gov.br/en/financialstability/pix_en)
         Key technologies
-        Cloudformation,SQS, SNS, Dynamodb, Aurora, Lambda, ECS ( fargate ), Cloud, HSM
-
+          - Cloudformation,SQS, SNS, Dynamodb, Aurora, Lambda, ECS ( fargate ), Cloud, HSM
         Mission
           - Enabling teams of skilled software engineers and solution specialists on banking platforms and help them deliver some awesome solutions to our customers
           - Contributing to design and implement build, deployment, and configuration management focusing on bank solutions in the cloud.
-
-          Participate in deep architectural discussions and contribute to drive the architecture to build highly scalable, cloud-native applications on the AWS platform 
+          - Participate in deep architectural discussions and contribute to drive the architecture to build highly scalable, cloud-native applications on the AWS platform 
           using core developer services.
-
     - role: DevOps Architect
       time: Dec 2018 – Jun 2020
       company: Thomson Reuters, Sao Paulo
@@ -112,8 +104,7 @@ experiences:
           - Jenkins - CI/CD Platform‎
           - Sonatype Nexus, Jfrog Artifactory
           - Golang/Python - Building my/our cloud cli tools ( aws ), DevOps and SRE
-          - Part of LGPD implementation program team ( Data Protection Implementation - SaaS Products)
-
+          - Part of LGPD implementation program team - Data Protection Implementation - SaaS Products
     - role: Senior DevOps Engineer - DevSecOps Chapter Leader
       time: Mar 2018 – Nov 2018
       company: Rivendel (Mandic Cloud), Sao Paulo
