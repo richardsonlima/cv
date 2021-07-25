@@ -48,25 +48,28 @@ career-profile:
       Cloud Platform Engineer with focus on Security, Development, Infra as a Code , Cloud, Service orchestration and 
       microservices. Trying to be 50% dev and 50% ops .
 education:
-    - degree: Bachelor of Science in Information Technology - BSIT / B.Sc IT 
-      university: Estácio University  
-      time: 2014 - 2017
-      details: |
-        Bachelor's degree - Bachelor of Information System 
-          - Bullet point
-          - Bullet point
     - degree: M.Sc. Candidate in Computer Engineering, Master of Engineering 
       university: Aeronautics Institute of Technology - ITA
       time: 2021 – 2025
       details: |
         Computer Engineering, Software engineering, Complex systems, Distributed computing system resiliency
-          - Bullet point
-          - Bullet point
+    - degree: Specialization
+      university: PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul
+      time: 2020 – 2021
+      details: |
+        People Management: Careers, Leadership
+    - degree: Bachelor of Science in Information Technology - BSIT / B.Sc IT 
+      university: Estácio University  
+      time: 2014 - 2017
+      details: |
+        Bachelor's degree - Bachelor of Information System 
+
 experiences:
     - role: Cloud Platform Engineer
       time: Jun 2020 - Present
-      company: Itaú Unibanco (Iti Itaú https://iti.itau), Sao Paulo
+      company: Itaú Unibanco, Sao Paulo
       details: |
+        Project: Iti, BaaS - https://iti.itau
         As Platform engineers we work with constantly focus examining the 
         entire software development lifecycle from source to production. 
         From this introspective process, we build a workflow that enables 
@@ -82,6 +85,16 @@ experiences:
         Istio, Hashicorp Consul, Hashicorp Terraform, AWS (Landing Zone), Golang, Helm, Gitlab
 
         - Mission: SRE, DevOps, NoOps, Observability, Reliability, Cloud management (Amazon AWS Services)
+
+        Project: PIX (https://www.bcb.gov.br/en/financialstability/pix_en)
+        Enabling teams of skilled software engineers and solution specialists on banking platforms 
+        and help them deliver some awesome solutions to our customers. Contributing to design and implement 
+        build, deployment, and configuration management focusing on bank solutions in the cloud. Participate 
+        in deep architectural discussions and contribute to drive the architecture to build highly scalable, 
+        cloud-native applications on the AWS platform using core developer services.
+
+        - Key technologies: Cloudformation, SQS, SNS, Dynamodb, Aurora, Lambda, ECS (fargate), Cloud, HSM
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
