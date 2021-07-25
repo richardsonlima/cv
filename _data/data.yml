@@ -61,7 +61,7 @@ experiences:
       time: Jun 2020 - Present
       company: Itaú Unibanco, Sao Paulo
       details: |
-            
+
 projects:
     title: Projects
     intro: >
@@ -134,5 +134,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://blog.richardsonlima.com.br" target="_blank" rel="nofollow">Richardson Lima</a>
-{"mode":"full","isActive":false}
+    Designed with <i class="fas fa-heart"></i> by <a href="http://www.richardsonlima.com.br" target="_blank" rel="nofollow">Richardson Lima</a>
