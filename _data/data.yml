@@ -184,7 +184,7 @@ publications:
       - title: xxxxxxxxx
         link: "#"
         authors: xxxxxxxxx
-        conference:xxxxxxxxx
+        conference: "xxxxxxxxx"
 
       - title: "xxxxxxxxx"
         link: "#"
