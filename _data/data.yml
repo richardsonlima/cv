@@ -112,6 +112,29 @@ experiences:
           - Sonatype Nexus, Jfrog Artifactory
           - Golang/Python - Building my/our cloud cli tools ( aws ), DevOps and SRE
           - Part of LGPD implementation program team - Data Protection Implementation - SaaS Products
+    - role: DevOps Engineer  
+      time: Mar 2017 – Mar 2018
+      company: Oracle Zenedge, Full Remote (USA - United States)
+      details: |
+        In March 2017 I had an opportunity to start working remotely as a DevOps engineer in an amazing team with a mix of Cyber 
+        Security professionals that worked in companies like Splunk and Akamai, our teams were distributed in the world in 3 
+        countries United States, Costa Rica, and Lithuania. So, it was amazing because I had an opportunity to work developing 
+        all of the ecosystem of a CDN startup company, it included POP nodes, AWS cloud infrastructure, Infra as code approach, 
+        and SRE/DevOps practices totally Linux oriented. As a lead global provider of cloud-based, artificial intelligence (AI)
+         driven Web Application Firewall (WAF), malicious bot detection, and DDoS cybersecurity solutions. ZENEDGE protected 
+         over 800,000 web applications and networks for organizations in eCommerce, Energy, Entertainment, Financial Services, 
+         Gaming, Government, Healthcare, Media, and Technology industries. ZENEDGE was acquired by Oracle in March 2018
+          - Cloud (AWS)
+          - Linux-oriented
+          - CDN nodes builder
+          - Nginx/Openresty
+          - Stack ELK
+          - Performance and Automation
+          - Cloud administration (AWS)
+          - Infrastructure-as-Code (Ansible)
+          - Team Collaboration Tools: Slack, Jira, Github, Confluence
+          - Professional Operations Services
+          - Working with a global team - United States, Costa Rica , Lithuania
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
