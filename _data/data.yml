@@ -123,20 +123,6 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: Senior DevOps Engineer 
-      time: Mar 2018 – Nov 2018
-      company: Rivendel Mandic Cloud, Sao Paulo
-      details: |
-        I started working as a Senior DevOps Engineer at this company specialized in Cloud Computing, with Lean culture, and 
-        with a lot of motivated guys. Acting with infrastructure in Amazon Web Services, Azure, and other Cloud platforms. 
-        "We've the most solid technical team in AWS and Azure in Brazil."
-          - Microservices, API management, and web-scale architectures
-          - DevOps engineering and application delivery
-          - Container-based continuous delivery
-          - Cloud automation, and everything-as-code
-          - Pentest (BlackBox, Graybox and Whitebox)
-          - Web Application Penetration Testing
-          - SCRUM as an agile methodology everyday
       - role: DevOps Consultant ( freelancer )
       time: Oct 2017 – Oct 2018
       company: SENAI - Innovation Institute for Information and Communication Technologies
