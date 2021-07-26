@@ -112,7 +112,18 @@ experiences:
           - Sonatype Nexus, Jfrog Artifactory
           - Golang/Python - Building my/our cloud cli tools ( aws ), DevOps and SRE
           - Part of LGPD implementation program team - Data Protection Implementation - SaaS Products
-    - role: Senior DevOps Engineer / DevSecOps Chapter Leader
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Senior DevOps Engineer 
       time: Mar 2018 – Nov 2018
       company: Rivendel (Mandic Cloud), Sao Paulo
       details: |
@@ -176,17 +187,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
     title: Projects
     intro: >
