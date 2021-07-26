@@ -69,7 +69,8 @@ experiences:
       time: Jun 2020 - Present
       company: Itaú Unibanco, Sao Paulo
       details: |
-        Project: Iti, BaaS - https://iti.itau
+        - Project: Iti, BaaS - https://iti.itau
+
         As Platform engineers we work with constantly focus examining the 
         entire software development lifecycle from source to production. 
         From this introspective process, we build a workflow that enables 
@@ -86,7 +87,8 @@ experiences:
 
         - Mission: SRE, DevOps, NoOps, Observability, Reliability, Cloud management (Amazon AWS Services)
 
-        Project: PIX (https://www.bcb.gov.br/en/financialstability/pix_en)
+        - Project: PIX (https://www.bcb.gov.br/en/financialstability/pix_en)
+
         Enabling teams of skilled software engineers and solution specialists on banking platforms 
         and help them deliver some awesome solutions to our customers. Contributing to design and implement 
         build, deployment, and configuration management focusing on bank solutions in the cloud. Participate 
