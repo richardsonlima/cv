@@ -135,13 +135,14 @@ experiences:
           - Team Collaboration Tools: Slack, Jira, Github, Confluence
           - Professional Operations Services
           - Working with a global team - United States, Costa Rica , Lithuania
-      - role: DevOps Consultant (freelancer)
+      - role: DevOps Consultant
       time: Oct 2017 – Oct 2018
-      company: SENAI - Innovation Institute for Information and Communication Technologies
+      company: SENAI, Innovation Institute for Information and Communication Technologies
       details: |
-        I worked as a DevOps Consultant (freelancer) assisting the industries projects with deployments and migrations of DevOps 
-        and Cloud solutions. With the objective of helping the company to promote competitiveness on the Brazilian industry through
-        the transfer of knowledge, applied research, and innovation.
+        I worked as a DevOps Consultant (freelancer) assisting the industries projects with deployments 
+        and migrations of DevOps and Cloud solutions. With the objective of helping the company to promote 
+        competitiveness on the Brazilian industry through the transfer of knowledge, applied research, 
+        and innovation.
           - Cloud (AWS) Engineer
           - Linux-oriented Consultant
           - Microservices (Docker Cluster - Swarm)
